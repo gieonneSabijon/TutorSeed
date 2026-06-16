@@ -10,7 +10,7 @@ Rather than simply giving away solutions, TutorSeed is built on a Socratic tutor
 - Google Generative AI SDK
 - React Markdown
 - TypeScript
-- 
+  
 # Features
 
 -   **Socratic Instruction Engine:** The system prompt instructs the AI to never give direct code/answers, focus on single step-by-step instructions, and maintain an encouraging growth mindset.
